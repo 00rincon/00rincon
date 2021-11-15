@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @00rincon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, soy @00rincon.
+- 👀 Estoy interesadoi en el sector de la ciberseguridad.
+- 🌱 Estoy actualmente estudiando un CFGM Sistemas microinformáticos y redes.
+- 🌎 Soy de Córdoba, España.
+- 📫 Puedes escribirme vía correo electronico: amrincon2003@gmail.com
 
 <!---
 00rincon/00rincon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
