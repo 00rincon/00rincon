@@ -1,5 +1,5 @@
 - 👋 Hola, soy @00rincon.
-- 👀 Estoy interesadoi en el sector de la ciberseguridad.
+- 👀 Estoy interesado en el sector de la ciberseguridad.
 - 🌱 Estoy actualmente estudiando un CFGM Sistemas microinformáticos y redes.
 - 🌎 Soy de Córdoba, España.
 - 📫 Puedes escribirme vía correo electronico: amrincon2003@gmail.com o telegram: @Zrincon
